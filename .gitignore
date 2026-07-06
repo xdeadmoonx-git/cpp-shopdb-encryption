@@ -1,0 +1,14 @@
+rsa.private
+key.txt
+key.txt.enc
+*.enc
+shopdb.bin
+build-*/
+*.o
+*.exe
+debug/
+release/
+Makefile*
+.qmake.stash
+*.pro.user
+OpenSSL-Win64/
